@@ -1,5 +1,4 @@
 import { v4 as uuidv4 } from "../node_modules/uuid/dist/esm-browser/index.js";
-// import { v4 as uuidv4 } from "./uuid";
 
 const addBtn = document.querySelector("#add-btn");
 const textinput = document.querySelector("#input-add");
