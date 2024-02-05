@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo App</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script
+      src="../node_modules/uuid/dist/esm-browser/index.js"
+      defer="true"
+      type="module"
+    ></script>
+    <script src="main.js" defer="true" type="module"></script>
+  </head>
+  <body>
+    <main>
+      <h1 class="main-heading">
+        Stop Juggling, Start <span class="gradient-wrap-text">Conquering</span>
+      </h1>
+
+      <div class="add-input-container">
+        <input type="text" id="input-add" tabindex="1" />
+        <div class="add-btn" id="add-btn" tabindex="0">Add</div>
+      </div>
+
+      <div class="main-cont">
+        <div class="list-cont">
+          <h2 class="heading">pending todos</h2>
+          <ul class="pending-todo-container">
+            <!-- <li class="todo">
+            <div class="left-side">
+              <input type="checkbox" name="" id="check" />
+              <h3 class="todo-name">
+                <a href="">Do laundry</a>
+              </h3>
+            </div>
+            <div class="delete-todo-btn">Delete</div>
+          </li> -->
+
+            <!-- <li class="todo">
+            <div class="left-side">
+              <input type="checkbox" name="" id="" />
+              <h3 class="todo-name">
+                <a href="">Do laundry</a>
+              </h3>
+            </div>
+            <div class="delete-todo-btn">Delete</div>
+          </li> -->
+          </ul>
+        </div>
+
+        <div class="list-cont">
+          <h2 class="heading">completed todos</h2>
+          <ul class="completed-todo-container">
+            <!-- <li class="todo">
+            <div class="left-side">
+              <input type="checkbox" name="" id="" />
+              <h3 class="todo-name">
+                <a href="">Do laundry</a>
+              </h3>
+            </div>
+            <div class="delete-todo-btn">Delete</div>
+          </li> -->
+
+            <!-- <li class="todo">
+            <div class="left-side">
+              <input type="checkbox" name="" id="" />
+              <h3 class="todo-name">
+                <a href="">Do laundry</a>
+              </h3>
+            </div>
+            <div class="delete-todo-btn">Delete</div>
+          </li> -->
+          </ul>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
