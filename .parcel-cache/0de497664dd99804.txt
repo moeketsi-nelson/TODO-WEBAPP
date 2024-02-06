@@ -24,7 +24,7 @@
 123C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133516728314069627 0
 92C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\caniuse-lite\data\features\variable-fonts.js133516728713246606 0
 109C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133516728319049624 0
-39C:\Users\Motub\Desktop\TODO-WEBAPP\dist133516758619273922 1
+39C:\Users\Motub\Desktop\TODO-WEBAPP\dist133516810231503189 1
 87C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133516728511719773 0
 116C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function133516728403266570 1
 56C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\get-port133516728471888001 1
@@ -68,7 +68,7 @@
 102C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\css-select\node_modules\domutils\lib\manipulation.d.ts133516728495572442 0
 70C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\source-map\lib\util.js133516728326929618 0
 124C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\walker.js133516728403486573 0
-49C:\Users\Motub\Desktop\TODO-WEBAPP\src\index.html133516740225919434 0
+49C:\Users\Motub\Desktop\TODO-WEBAPP\src\index.html133516810059787967 0
 48C:\Users\Motub\Desktop\TODO-WEBAPP\src\style.css133516219527733064 0
 78C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\type-fest\ts41\kebab-case.d.ts133516728329009619 0
 60C:\Users\Motub\Desktop\TODO-WEBAPP\node_modules\chalk\source133516728315049638 1
@@ -6023,4 +6023,4 @@
 61C:\Users\Motub\Desktop\TODO-WEBAPP\dist\index.98a59acd.js.map133516758619253955 0
 57C:\Users\Motub\Desktop\TODO-WEBAPP\dist\index.ca149eb0.js133516758619143971 0
 61C:\Users\Motub\Desktop\TODO-WEBAPP\dist\index.ca149eb0.js.map133516758619263952 0
-50C:\Users\Motub\Desktop\TODO-WEBAPP\dist\index.html133516758619093915 0
+50C:\Users\Motub\Desktop\TODO-WEBAPP\dist\index.html133516810231493196 0
